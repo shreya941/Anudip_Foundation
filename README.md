@@ -1,2 +1,2 @@
 # Anudip_Foundation
-This repository contains a collection of basic Python codes created during my training at the Anudip Foundation. It includes examples and exercises that cover fundamental concepts and techniques in Python programming. This repository is intended as a resource for beginners to learn and practice Python.
+This repository contains a collection of basic Python codes, Power BI dashboards and Excel sheets created during my training at the Anudip Foundation. It includes examples and exercises that cover fundamental concepts and techniques in Python programming,MSpreadsheet and Power BI. This repository is intended as a resource for beginners to learn and practice Python, Power BI and Excel.
